@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="akka" Version="1.4.8" />
+    <PackageReference Include="akka" Version="1.4.46" />
     <PackageReference Include="akka.cluster" Version="1.4.8" />
     <PackageReference Include="akka.persistence" Version="1.4.8" />
     <PackageReference Include="akka.remote" Version="1.4.8" />
