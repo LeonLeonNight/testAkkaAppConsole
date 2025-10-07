@@ -6,10 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="akka" Version="1.4.8" />
-    <PackageReference Include="akka.cluster" Version="1.4.8" />
+    <PackageReference Include="akka" Version="1.5.52" />
+    <PackageReference Include="akka.cluster" Version="1.5.52" />
     <PackageReference Include="akka.persistence" Version="1.4.8" />
-    <PackageReference Include="akka.remote" Version="1.4.8" />
+    <PackageReference Include="akka.remote" Version="1.5.52" />
     <PackageReference Include="akka.streams" Version="1.4.8" />
   </ItemGroup>
 
